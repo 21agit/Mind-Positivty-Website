@@ -9,7 +9,7 @@ Mithilfe von Pflichtenheft und Testdokumentation habe ich die Entwicklung transp
 - **Diashow-Funktion**: Automatisches Durchblättern von Bildern/Zitaten in einem definierten Zeitintervall.  
 - Nutzer können eigene Zitate und Bilder hinterlegen und in die Anzeige integrieren.
 
-## Demo
+## Demo-Bilder
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <img src="./assets/erster_zugriff.png"/>
