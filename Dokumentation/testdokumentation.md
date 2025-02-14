@@ -12,7 +12,7 @@ Die Testumgebung besteht aus folgenden Komponenten:
 - Betriebssystem: Windows 11 Pro
 - Bildschirmauflösung: 1920 x 1080 Pixel
 - HTML-Datei: index.html
-- JavaScript-Datei: script3.js
+- JavaScript-Datei: script.js
 
 ## Testfälle
 
